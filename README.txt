@@ -88,4 +88,4 @@ References
 
    [1] Lubenia P, Mendoza E, Lao A (2022) Reaction network analysis of metabolic insulin signaling (submitted)
 
-   [2] Soranzo N, Altafini C (2009) ERNEST: a toolbox for chemical reaction network theory. Bioinform 25(21):2853Ð2854. https://doi.org/10.1093/bioinformatics/btp513
+   [2] Soranzo N, Altafini C (2009) ERNEST: a toolbox for chemical reaction network theory. Bioinform 25(21):2853-2854. https://doi.org/10.1093/bioinformatics/btp513
